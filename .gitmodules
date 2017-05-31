@@ -1,0 +1,4 @@
+[submodule "web/typo3conf/ext/cocobase"]
+	path = web/typo3conf/ext/cocobase
+	url = https://github.com/cocowerbung/cocobase
+	branch = master
